@@ -244,10 +244,10 @@
                 <mxCell id="143" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;fontColor=#232F3E;strokeColor=none;strokeWidth=1;fillColor=#248814;" parent="1" vertex="1">
                     <mxGeometry x="200" y="240" width="24.25" height="24" as="geometry"/>
                 </mxCell>
-                <mxCell id="144" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.android;fillColor=none;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontColor=#232F3E;strokeWidth=0.7;" parent="1" vertex="1">
+                <mxCell id="144" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.android;fillColor=none;strokeColor=#FFFFFF;labelBackgroundColor=none;fontSize=11;fontColor=#232F3E;strokeWidth=0.7;" parent="1" vertex="1">
                     <mxGeometry x="204" y="243" width="15.3" height="18" as="geometry"/>
                 </mxCell>
-                <mxCell id="145" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple;fillColor=none;strokeColor=default;labelBackgroundColor=none;fontSize=11;fontColor=#232F3E;strokeWidth=0.7;" parent="1" vertex="1">
+                <mxCell id="145" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple;fillColor=none;strokeColor=#FFFFFF;labelBackgroundColor=none;fontSize=11;fontColor=#232F3E;strokeWidth=0.7;" parent="1" vertex="1">
                     <mxGeometry x="54.75" y="243" width="14.74" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="146" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.mobile;pointerEvents=1;labelBackgroundColor=none;fontSize=11;fontColor=#232F3E;" parent="1" vertex="1">
