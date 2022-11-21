@@ -1,5 +1,5 @@
 # Server Infrastructure
 
-Server infrastructure definitions and visualizations as of 2022-10-31
+Server infrastructure definitions and visualizations as of 2022-11-16
 
-![Infrastructure](infra_white.png)
+![Infrastructure](infra_20221116.png)
