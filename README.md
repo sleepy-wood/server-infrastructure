@@ -1,4 +1,4 @@
-# Server Infrastructure
+# server-infrastructure
 
 Server infrastructure definitions and visualizations as of 2022-11-16
 
